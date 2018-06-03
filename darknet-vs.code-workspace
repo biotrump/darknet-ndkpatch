@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "include"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "jni"
+		}
+	],
+	"settings": {
+		"gotoSymbolStack.currentStackPosition": 5,
+		"gotoSymbolStack.maxStackPosition": 5,
+		"gotoSymbolStack.filePositionInfo": [
+			{
+				"textFile": "/home/thomas/ai/yolo/darknet/jni/darknetlib.c",
+				"viewColumn": 1,
+				"textPosition": {
+					"line": 73,
+					"character": 23
+				}
+			},
+			{
+				"textFile": "/home/thomas/ai/yolo/darknet/jni/darknetlib.c",
+				"viewColumn": 1,
+				"textPosition": {
+					"line": 73,
+					"character": 23
+				}
+			},
+			{
+				"textFile": "/home/thomas/ai/yolo/darknet/jni/darknetlib.c",
+				"viewColumn": 1,
+				"textPosition": {
+					"line": 73,
+					"character": 23
+				}
+			},
+			{
+				"textFile": "/home/thomas/ai/yolo/darknet/jni/darknetlib.c",
+				"viewColumn": 1,
+				"textPosition": {
+					"line": 73,
+					"character": 23
+				}
+			},
+			{
+				"textFile": "/home/thomas/ai/yolo/darknet/jni/darknetlib.c",
+				"viewColumn": 1,
+				"textPosition": {
+					"line": 73,
+					"character": 23
+				}
+			}
+		]
+	}
+}
